@@ -26,7 +26,7 @@ The dataset is compiled from various reputable public databases and records, ens
 ## Getting Started
 Engage with the analysis and presentation:
 1. Download and install Power BI Desktop.
-2. Clone this repository and open the `London Housing Market Analysis Dashboard - Marizeek Mabifa.pdf` file.
+2. Clone this repository and open the `London Housing Market Analysis (Dashboard) - Marizeek Mabifa.pbit` file.
 4. Interact with the dashboard to explore market trends, and refer to the project presentation for detailed insights and recommendations.
 
 ## Insights and Impact
