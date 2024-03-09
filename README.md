@@ -21,7 +21,7 @@ Beyond the data visualization, this project encompasses a strategic presentation
 - Power BI: For robust data modeling, advanced visualization, and interactive dashboard creation.
 
 ## Data Sources
-The dataset is compiled from various reputable public databases and records, ensuring a high standard of data integrity and relevance.
+The data used in this analysis were sourced from data.gov.uk. Due diligence was exercised to ensure data accuracy and reliability.
 
 ## Getting Started
 Engage with the analysis and presentation:
